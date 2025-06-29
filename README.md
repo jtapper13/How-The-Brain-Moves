@@ -7,4 +7,5 @@ This is the repository for all documents related the TFM: *How the Brain Moves: 
 * FeatureExtraction.ipynb - Used to analyze the models and generate many of the figures used in the report.
 * IG_values.ipynb - Used to acquire the Integrated Gradients on trained models.
 * SHAP_values.py - Used to acquire the SHAP values using the KernelExplaienr.
+* Archive.ipynb - A collection of code cells that provide a proof of concept of the testing and experimentation performed before the work described in the final report.
 
