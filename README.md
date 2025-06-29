@@ -1,2 +1,2 @@
 # TFM_LPF_Labels
-Josh and Luca's code for their master's joint thesis project
+Code for the TFM: How the Brain Moves: Understanding Motion-Based Brain States Using Deep Learning Techniques
