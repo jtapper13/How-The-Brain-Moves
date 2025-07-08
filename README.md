@@ -26,6 +26,7 @@ $${\color{gray}Models \space were \space trained \space and \space analyzed \spa
 * **IG_values.ipynb** - Used to acquire the Integrated Gradients on trained models.
 * **SHAP_values.py** - Used to acquire the SHAP values using the KernelExplaienr.
 * **Archive.ipynb** - A collection of code cells that provide a proof of concept of the testing and experimentation performed before the work described in the final report.
+* **ThesisPresentation.pptx** - Slides that were presented for the thesis defense.
 
 ## Contact
 
